@@ -21,3 +21,12 @@ footer {
     text-align: center;
     font-style: italic;
 }
+
+#imagem {
+ width: 250px;
+}
+
+div{
+    text-align: center;
+    padding: 8x;
+}
